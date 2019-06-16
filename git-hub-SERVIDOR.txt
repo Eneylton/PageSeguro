@@ -1,0 +1,8 @@
+git remote add origin https://github.com/Eneylton/PageSeguro.git
+
+git push -u origin master
+
+
+SITE SERVIDOR
+
+https://lojistapureza.com.br/wp-admin/PagSeguro
